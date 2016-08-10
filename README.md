@@ -16,7 +16,7 @@
 
 * CloudByte Flocker Plugin
    ```
-    git clone https://github.com/yogeshprasad/cloudbyte-flocker-driver.git 
+    git clone https://github.com/CloudByteStorages/cloudbyte-flocker-driver.git
     cd cloudbyte-flocker-driver
     sudo /opt/flocker/bin/python2.7 setup.py install
    ``` 
